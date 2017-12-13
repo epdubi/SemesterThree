@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FredsIceCreamShop", "FredsIceCreamShop\FredsIceCreamShop.csproj", "{AF6AC374-2172-4E17-B177-9BF8956EC758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrder", "..\FoodOrderPractice\FoodOrder\FoodOrder.csproj", "{2DE52434-611F-41A8-AD55-8FEC846D605A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6AC374-2172-4E17-B177-9BF8956EC758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6AC374-2172-4E17-B177-9BF8956EC758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6AC374-2172-4E17-B177-9BF8956EC758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6AC374-2172-4E17-B177-9BF8956EC758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE52434-611F-41A8-AD55-8FEC846D605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE52434-611F-41A8-AD55-8FEC846D605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE52434-611F-41A8-AD55-8FEC846D605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE52434-611F-41A8-AD55-8FEC846D605A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8832CF5-1B00-453C-9FC3-A2D51CF2682C}
+	EndGlobalSection
+EndGlobal

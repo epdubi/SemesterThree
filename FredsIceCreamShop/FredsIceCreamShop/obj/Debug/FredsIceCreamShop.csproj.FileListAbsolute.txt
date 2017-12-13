@@ -1,0 +1,10 @@
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\bin\Debug\FredsIceCreamShop.exe.config
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\bin\Debug\FredsIceCreamShop.exe
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\bin\Debug\FredsIceCreamShop.pdb
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.csprojResolveAssemblyReference.cache
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.Form1.resources
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.Properties.Resources.resources
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.csproj.GenerateResource.Cache
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.csproj.CoreCompileInputs.cache
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.exe
+C:\Users\epdub\source\repos\FredsIceCreamShop\FredsIceCreamShop\obj\Debug\FredsIceCreamShop.pdb
