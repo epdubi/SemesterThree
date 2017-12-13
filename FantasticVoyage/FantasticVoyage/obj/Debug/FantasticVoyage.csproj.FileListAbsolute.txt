@@ -1,0 +1,10 @@
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\bin\Debug\FantasticVoyage.exe.config
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\bin\Debug\FantasticVoyage.exe
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\bin\Debug\FantasticVoyage.pdb
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.csprojResolveAssemblyReference.cache
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.Form1.resources
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.Properties.Resources.resources
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.csproj.GenerateResource.Cache
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.csproj.CoreCompileInputs.cache
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.exe
+C:\Users\epdub\source\repos\FantasticVoyage\FantasticVoyage\obj\Debug\FantasticVoyage.pdb
