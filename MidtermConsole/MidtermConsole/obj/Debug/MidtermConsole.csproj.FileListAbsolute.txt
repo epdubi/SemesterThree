@@ -1,0 +1,7 @@
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\obj\Debug\MidtermConsole.csprojResolveAssemblyReference.cache
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\obj\Debug\MidtermConsole.csproj.CoreCompileInputs.cache
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\bin\Debug\MidtermConsole.exe.config
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\bin\Debug\MidtermConsole.exe
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\bin\Debug\MidtermConsole.pdb
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\obj\Debug\MidtermConsole.exe
+C:\Users\epdub\source\repos\MidtermConsole\MidtermConsole\obj\Debug\MidtermConsole.pdb
